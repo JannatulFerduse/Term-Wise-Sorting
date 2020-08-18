@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1510424450 source:c:\users\shuvo\desktop\shuvo\main.cpp
+	<iostream>
+	<string>
+	<cstdio>
+	<algorithm>
+
+1510424450 source:c:\users\shuvo\desktop\mentoring project\main.cpp
+	<iostream>
+	<string>
+	<cstdio>
+	<algorithm>
+
+1510473188 source:f:\c++\projects\mentoring project\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+	<string>
+	<iomanip>
+	<cstdio>
+	<stdlib.h>
+	<functional>
+	<array>
+
+1510473188 source:f:\projects\mentoring project\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+	<string>
+	<iomanip>
+	<cstdio>
+	<stdlib.h>
+	<functional>
+	<array>
+
+1510473188 source:f:\shuvo\projects\mentoring project\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+	<string>
+	<iomanip>
+	<cstdio>
+	<stdlib.h>
+	<functional>
+	<array>
+
